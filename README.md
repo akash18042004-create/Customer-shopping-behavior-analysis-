@@ -93,8 +93,6 @@ customer-shopping-behavior-analysis/
 ├── dashboard/
 ├── images/
 ├── README.md
-Dashboard Preview
-"C:\Users\akash\Downloads\my_python_project\images\my_banking_dashboard_screenshots"
 
 
 Author
