@@ -94,7 +94,7 @@ customer-shopping-behavior-analysis/
 ├── images/
 ├── README.md
 Dashboard Preview
-<img width="1310" height="737" alt="customer behavior analysis dashboard screenshot" src="https://github.com/user-attachments/assets/e19d496e-61ce-4e52-9d2b-43b0652a510e" />
+"C:\Users\akash\Downloads\my_python_project\images\my_banking_dashboard_screenshots"
 
 
 Author
